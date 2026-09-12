@@ -1,48 +1,33 @@
-### 👋 Halo, Saya Jauza Atallah Hariyanto!
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Jauza Atallah Hariyanto :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
-Saya adalah seorang siswa **Kelas X PPLG** (Pengembangan Perangkat Lunak dan Gim) di **SMK Muhammadiyah 3 Tangerang Selatan**. Saya memiliki ketertarikan tinggi pada dunia pemrograman, pengembangan aplikasi, dan teknologi web.
-
----
-
-### 🚀 Tentang Saya
-
-- 🏫 **Sekolah**: SMK Muhammadiyah 3 Tangerang Selatan
-- 📚 **Jurusan**: X PPLG (Pengembangan Perangkat Lunak dan Gim)
-- 💻 **Fokus Belajar**: Web Development, Logic & Algorithm, Software Engineering Basics
-- 🎯 **Tujuan**: Menjadi seorang Full-Stack Developer / Software Engineer profesional di masa depan.
-
----
-
-### 🛠️ Bahasa & Tools yang Dipelajari
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 Statistik GitHub
-
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight" width="48%" />
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
----
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-### 📫 Hubungi Saya
+- :school: 10th-grade Student at **SMK Muhammadiyah 3 Tangerang Selatan**
+- :books: Majoring in **PPLG** (Software & Game Engineering)
+- :computer: Currently focusing on Web Development & Programming Logic Fundamentals
+- :rocket: Always ready to learn new technologies & collaborate on student projects
+- :dart: Goal: To become a professional Software Engineer / Full-Stack Developer
+- :zap: Fun fact: I enjoy problem-solving and turning ideas into code! <br>
 
-<p align="left">
-  <a href="mailto:emailkamu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/USERNAME_IG" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your_email@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
